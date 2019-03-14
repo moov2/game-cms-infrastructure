@@ -1,0 +1,3 @@
+# Game Studio CMS Infrastructure
+
+A [Terraform](https://www.terraform.io/) module which builds the standard infrastructure in [Azure](https://portal.azure.com/) needed to host an instance of the [Etch Play](https://etchplay.com/) Game Studio CMS offering. This allows us to get a site up and running as fast as possible as well as incrementally deploying consistant infrastructure changes across multiple projects.
